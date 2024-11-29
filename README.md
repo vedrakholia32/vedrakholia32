@@ -2,20 +2,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravanngoswamii&label=Profile%20views&color=0e75b6&style=flat" alt="shravanngoswamii" /> </p>
 
-- [Visit My Website](https://shravangoswami.com)
 
 - Contact me at **vedrakholia525@gmail.com**
 
 <!-- <h3 align="left">Coding Profiles:</h3>-->
 <p align="left">
-<!-- <a href="https://twitter.com/shravangoswamii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shravangoswamii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shravangoswami" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shravangoswami" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/vedrakholia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shravangoswami" height="30" width="40" /></a> -->
 <!-- <a href="https://instagram.com/shravan_goswami_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shravan_goswami_" height="30" width="40" /></a> -->
 <!-- <a href="https://www.codechef.com/users/shravangoswami" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shravanngoswamii" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shravanngoswamii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shravanngoswamii" height="30" width="40" /></a> -->
 <!-- <a href="https://codeforces.com/profile/vedrakholia32" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shravanngoswamii" height="30" width="40" />Codeforces Profile</a> -->
 <!-- <a href="https://www.leetcode.com/shravanngoswamii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shravanngoswamii" height="30" width="40" /></a> -->
-<!-- <a href="https://auth.geeksforgeeks.org/user/shravanngoswamii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shravanngoswamii" height="30" width="40" />GeekforGeeks</a> -->
+<!-- <a href="https://auth.geeksforgeeks.org/user/shravanngoswamii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shravanngoswamii" height="30" width="40" />GeekforGeeks</a>
 </p>
 
 [![Ved's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravanngoswamii&show_icons=true&theme=transparent&hide_border=true&card_width=400)](https://github.com/vedrakholia32) [![GitHub Streak](https://streak-stats.demolab.com?user=vedrakholia32&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400)](https://github.com/vedrakholia32)
