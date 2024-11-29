@@ -16,9 +16,9 @@
 <!-- <!-- <a href="https://auth.geeksforgeeks.org/user/shravanngoswamii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shravanngoswamii" height="30" width="40" />GeekforGeeks</a> -->
 </p>
 
-[![Ved's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravanngoswamii&show_icons=true&theme=transparent&hide_border=true&card_width=400)](https://github.com/vedrakholia32) [![GitHub Streak](https://streak-stats.demolab.com?user=vedrakholia32&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400)](https://github.com/vedrakholia32)
+[![Ved's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedrakholia32&show_icons=true&theme=transparent&hide_border=true&card_width=400)](https://github.com/vedrakholia32) [![GitHub Streak](https://streak-stats.demolab.com?user=vedrakholia32&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400)](https://github.com/vedrakholia32)
 
-[![Ved's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shravanngoswamii&theme=github-compact&hide_border=true	)](https://github.com/vedrakholia32)
+[![Ved's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedrakholia32&theme=github-compact&hide_border=true	)](https://github.com/vedrakholia32)
 
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
