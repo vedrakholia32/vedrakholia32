@@ -6,7 +6,7 @@
 - Contact me at **vedrakholia525@gmail.com**
 
 <p align="left">
-
+ 
 </p>
 
 [![Ved's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedrakholia32&show_icons=true&theme=transparent&hide_border=true&card_width=400)](https://github.com/vedrakholia32) [![GitHub Streak](https://streak-stats.demolab.com?user=vedrakholia32&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400)](https://github.com/vedrakholia32)
