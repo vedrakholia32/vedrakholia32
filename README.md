@@ -5,7 +5,6 @@
 
 - Contact me at **vedrakholia525@gmail.com**
 
-<!-- <h3 align="left">Coding Profiles:</h3>-->
 <p align="left">
 
 </p>
